@@ -103,4 +103,8 @@
     color: #666;
     margin-bottom: 2rem;
   }
-  
+  .logo-img {
+    height: 60px;
+    width: auto;
+  }
+    
