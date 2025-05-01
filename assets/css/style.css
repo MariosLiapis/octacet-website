@@ -150,7 +150,7 @@ a {
 }
 .pt_banner_30{
   padding-top: 35px !important}
-}
+
 
 
 
@@ -166,8 +166,10 @@ a {
   position: relative;
   margin-bottom: 20px;
 }
-
-
+.logo images {
+  height: 80px;
+  max-width: auto;
+}
 
 
 
@@ -1502,7 +1504,7 @@ text-align: left;
 .button-n,
 a {
     text-decoration: none!important
-    color:#fff !important;
+    color:#fff !important
 }
 
 .header_aera .navbar-header .navbar-brand{
